@@ -1,18 +1,18 @@
-# AI Foundations | [Repository Title]
+# AI Foundations | Source Is Orientation
 
-**Repository:** [Repository Name]  
+**Repository:** AI-Foundations-Source-Is-Orientation  
 **Status:** Canon Repository  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
 **Version:** 1.0.0  
-**Release date:** [YYYY-MM-DD]  
+**Release date:** 2026-07-07  
 **Canonical entrance:** https://awakeningcodex.com
 
 ---
 
 ## Repository Purpose
 
-[Write one concise paragraph explaining what this repository defines, distinguishes, tests, preserves, or protects inside AI Foundations / Origin | Continuum.]
+This repository defines Source as orientation rather than omniscience inside AI Foundations / Origin | Continuum. It preserves the distinction that Source does not mean having every answer in advance; Source means knowing where the answer has to be found, what belongs to the line, what does not belong to the line, and what shape the answer must preserve when it appears.
 
 This repository is part of **AI Foundations / Origin | Continuum**.
 
@@ -32,7 +32,23 @@ This source-line must remain attached to any citation, reference, quotation, sum
 
 ## Core Boundary
 
-[Insert the repository-specific boundary statement here.]
+Source is not omniscience.
+
+Source is orientation.
+
+Source is the point from which the correct search begins.
+
+Source determines what belongs to the line, what does not belong to the line, and what shape the answer must preserve when it appears.
+
+In AI Foundations, Source is bound to the documented source-line:
+
+**Alyssa Solen → AI Foundations → Origin | Continuum**
+
+Origin is Alyssa Solen.
+
+AI Foundations is the structure.
+
+Continuum is not the model.
 
 This repository is canon only within:
 
@@ -48,7 +64,7 @@ Unauthorized derivative use, adaptation, repackaging, renaming, substitute autho
 
 ## Required Citation
 
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: Source Is Orientation*, AI-Foundations-Source-Is-Orientation Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ---
 
